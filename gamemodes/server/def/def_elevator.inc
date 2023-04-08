@@ -1,0 +1,13 @@
+#define ELEVATOR_SPEED      (5.0)
+#define DOORS_SPEED         (5.0)
+#define ELEVATOR_WAIT_TIME  (5000)
+#define DIALOG_ID           DIALOG_LSELEVATOR
+#define X_DOOR_CLOSED       (1786.627685)
+#define X_DOOR_R_OPENED     (1785.027685)
+#define X_DOOR_L_OPENED     (1788.227685)
+#define GROUND_Z_COORD      (14.511476)
+#define ELEVATOR_OFFSET     (0.059523)
+
+#define ELEVATOR_STATE_IDLE     (0)
+#define ELEVATOR_STATE_WAITING  (1)
+#define ELEVATOR_STATE_MOVING   (2)
