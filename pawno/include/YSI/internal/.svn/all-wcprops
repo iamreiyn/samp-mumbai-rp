@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal
+END
+y_grouprevert.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_grouprevert.inc
+END
+y_version.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_version.inc
+END
+y_funcinc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_funcinc.inc
+END
+y_groupsecond.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_groupsecond.inc
+END
+y_inttest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_inttest.inc
+END
+y_overridemaster.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_overridemaster.inc
+END
+y_groupsingle.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_groupsingle.inc
+END
+y_masteronce.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_masteronce.inc
+END
+y_grouponce.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_grouponce.inc
+END
+y_groupfirst.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_groupfirst.inc
+END
+y_classgroups.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_classgroups.inc
+END
+y_automasters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_automasters.inc
+END
+y_shortfunc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_shortfunc.inc
+END
+y_nogroups.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_nogroups.inc
+END
+y_inttest2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vxrp2/!svn/ver/2/trunk/Server%20Packages/Windows/pawno/include/YSI/internal/y_inttest2.inc
+END
