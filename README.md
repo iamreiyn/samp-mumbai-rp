@@ -1,3 +1,30 @@
+# MUMBAI ROLEPLAY Gamemode script
+![Preview of our players tab](https://cdn.discordapp.com/attachments/796834189940228106/1087070669231116409/Screenshot_56.png "Players")
+
+- Address: play.prospectrp.net:7777<br>
+- Website: https://www.prospectrp.net<br>
+- Forums: https://forum.prospectrp.net
+- Some Screenshots: https://imgur.com/a/pKLjYCr (mixed with Prospect RP)
+
+This is gamemode script of Mumbai Roleplay SA-MP server, a multiplayer mod for Grand Theft Auto San Andreas and with working database and no errors as of 8th April, 2023. Optimized for **SA-MP mobile client** as well.
+
+A community which ran for several years, formerly known as Prospect Roleplay, although this is not the official gamemode of Prospect Roleplay. This script and project is no longer being maintained, therefore I won't be able to help in debugging anymore.
+There are no major bugs in this script reported or known to me as of the time of release.
+
+**Credits:** Kye, the SA-MP forums, Pedro for his Speedometer, Limitless Roleplay for the base script, and all the developers of the plugins used!<br><br>
+
+Server Setup
+----------------------
+
+I have included both plugins for Windows and Linux servers, to setup a quick testing environment in your computer:
+
+- Install XAMMP
+- Start the Apache and MySQL server
+- Open Phpmyadmin and create a new database
+- Put the details of the database in your script
+- Run the server
+
+
 SA-MP 0.3 Server Setup
 ----------------------
 
